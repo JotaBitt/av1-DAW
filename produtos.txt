@@ -1,0 +1,10 @@
+21;Boticario Cuide-se Bem (Cachos Exuberantes) - Shampoo Cachos 250 Ml;22.99R$
+22;Boticario Cuide-se Bem (Cachos Exuberantes)  - Condicionador 250 Ml;23.99R$
+23;Boticario Cuide-se Bem (Cachos Exuberantes) - Condicionador 250 Ml;24.99R$
+25;Boticario Cuide-se Bem (Liso Perfeito)  - Shampoo Alisador 250 Ml;25.99R$
+26;Boticario Cuide-se Bem (Liso Perfeito) - Shampoo Alisador 250 Ml;22.99R$
+27;Boticario Cuide-se Bem (Liso Perfeito) - Condicionador 250 Ml;24.99R$
+28;Boticario Cuide-se Bem (Restauracao Extraordinaria)  - Condicionador 250 Ml;24.99R$
+29;Boticario Cuide-se Bem (Restauracao Extraordinaria) - Condicionador 250 Ml;24.99R$
+30;Boticario Cuide-se Bem (Hidratacao Imediata)  - Shampoo Hidratante 250 Ml;24.99R$
+31;Boticario Cuide-se Bem (Hidratacao Imediata) - Shampoo Hidratante 250 Ml;24.99R$
