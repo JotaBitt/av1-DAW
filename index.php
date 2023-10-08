@@ -107,5 +107,6 @@
         <?php echo $msg?>
         <br>
         <a href="carrinho.php"><button>Ver carrinho</button></a>
+        <a href="buscar.php"><button>Buscar Produto</button></a>
     </body>
 </html>
