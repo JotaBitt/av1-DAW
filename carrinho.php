@@ -57,8 +57,8 @@
         </tr>
         <?php
             $i++;
-            }
-            fclose($arqCarrinho);
+        }
+        fclose($arqCarrinho);
         ?>
         </table>
         <form action="excluir.php" method="POST">
@@ -72,5 +72,6 @@
     <?php echo $msg?>
     <br>
     <a href="index.php"><button>Voltar ao menu</button></a>
+    <a href="alterar.php"><button>Alterar Produto</button></a>
     </body>
 </html>

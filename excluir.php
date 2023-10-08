@@ -14,7 +14,6 @@
         $pesquisa = $_POST['id'];
 
         while (!feof($arqCarrinho)) {
-            $msg = "Produto NÃO encontrado!";
             $linhas[] = fgets($arqCarrinho);
             $info = explode(";", $linhas[$i]);
             
